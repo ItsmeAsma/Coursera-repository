@@ -7,7 +7,7 @@ h1{
 	text-align: center;
 	padding-top: 15px;
 	margin-bottom: 15px;
-	font-size: 200%;
+	font-size: 175%;
 	font-family: Helvetica;
 
 }
@@ -37,7 +37,7 @@ h1{
     height: 30px;
     margin: 0;
     text-align: center;
-    font-size:120%;
+    font-size:125%;
     padding-top:2px;
     background-color: 	#ffcccc;
 
@@ -54,7 +54,7 @@ h1{
     height: 30px;
     margin: 0;
     text-align: center;
-    font-size:120%;
+    font-size:125%;
     padding-top:2px;
     background-color: #ff1a1a;
 
@@ -71,7 +71,7 @@ h1{
     height: 30px;
     margin: 0;
     text-align: center;
-    font-size:120%;
+    font-size:125%;
     padding-top:2px;
     background-color:  #ffffb3;
 
@@ -81,6 +81,7 @@ h1{
 .paragraph{
 	padding: 15px;
     overflow: auto;
+    font-size: 100%
 }
 
 
