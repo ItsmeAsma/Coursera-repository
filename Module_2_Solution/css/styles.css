@@ -13,8 +13,8 @@ h1{
 }
 
 .section{
-	font-family: Georgia;
-	border: 2px solid black;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	border: 1px solid black;
 	width: 90%;
 	margin: 20px;
 	padding: 8px;
@@ -31,8 +31,8 @@ h1{
 	top: 0px;
 	right: 0px;
     float: right;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     width: 35%;
     height: 30px;
     margin: 0;
@@ -48,8 +48,8 @@ h1{
 	top: 0px;
 	right: 0px;
     float: right;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     width: 35%;
     height: 30px;
     margin: 0;
@@ -65,8 +65,8 @@ h1{
 	top: 0px;
 	right: 0px;
     float: right;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     width: 35%;
     height: 30px;
     margin: 0;
