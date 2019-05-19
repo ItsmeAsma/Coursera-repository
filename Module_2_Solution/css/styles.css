@@ -13,10 +13,11 @@ h1{
 }
 
 .section{
+	position: relative;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	border: 1px solid black;
-	margin: 20px;
 	padding: 20px;
+	margin: 20px;
 	background-color: lightgrey;
 	
 		
@@ -26,7 +27,7 @@ h1{
 
 
 .title1{
-	
+	position: absolute;
 	top: 0px;
 	right: 0px;
     float: right;
@@ -43,7 +44,7 @@ h1{
 }
 
 .title2{
-	
+	position: absolute;
 	top: 0px;
 	right: 0px;
     float: right;
@@ -60,7 +61,7 @@ h1{
 }
 
 .title3{
-	
+	position: absolute;
 	top: 0px;
 	right: 0px;
     float: right;
@@ -187,7 +188,7 @@ h1{
 				width: 91.66%;
 			}
 			.col-md-12{
-				width: 105.5%;
+				width: 100%;
 				
 			}
 } 
@@ -234,7 +235,7 @@ h1{
 				width: 91.66%;
 			}
 			.col-sm-12{
-				width: 105.5%;
+				width: 100%;
 				
 			}
 } 
